@@ -1,1 +1,2 @@
 # Portif-lio-1BDS--2-T
+Projeto desenvolvido no Cólegoi estadual DR Gastão Vidigal, no ano de 2026,na turma do 1BDS. A intenção desse portifólio é explicar a utilidade e funçãp dos códigos em HTML,CSS e JS. as imagens,áudios e videos aqui utilizados, foram retirados
